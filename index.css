@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&family=Dancing+Script&family=Edu+QLD+Beginner&family=Lobster&family=Pacifico&family=Permanent+Marker&family=Rubik+Moonrocks&family=The+Nautigal:wght@400;700&family=Titan+One&display=swap');
+
+#s2{
+    color: rgb(7, 7, 7);
+    font-size:40px;
+    font-family:'Lobster', cursive;
+    padding: 10px;
+}
+nav{
+    background-color:rgb(253, 252, 249);
+   
+    
+}
+/* #m1{
+    position: sticky;
+    top: 0px;
+}  */
+.nav-link{
+    margin-left:20px;
+    font-size:small;
+}
+.n1{
+    position: sticky;
+    margin-top: 0px;
+}
+.coursel-item{
+    height: 10px;
+}
+/* img{
+    align-items: center;
+} */
+.v2{
+    height: 150px;
+    /* width: 100px; */
+    align-items: center;
+    /* margin-left: 20px; */
+    /* padding: 30px; */
+}
+.v5{
+    border: rgb(252, 249, 249) solid;
+    /* text-align: center; */
+    /* margin-left: 20px; */
+    /* width: 10px; */
+    /* width:2px; */
+    align-items: center;
+    /* padding-left: 70px; */
+
+}
+
+
+#p1{
+    text-align: center;
+    background-color: rgb(253, 252, 252);
+    font-family: 'Cormorant SC', serif;
+     color: rgb(8, 8, 8);
+     border-radius: 50px;
+     /* width: 500px; */
+}
+#w1{
+    margin-left: 90px;
+    margin-right: 20px;
+    
+}
+#b1{
+    background-color: rgb(241, 115, 65);
+    height: 8px;
+}
+.v5:hover{
+     animation: 3s ease-in-out 1s infinite;
+    transform: rotate(0deg) scale(.8); 
+    box-shadow: rgb(211, 202, 202) 0px 0px 10px 15px;
+    /* height: 500px;  */
+    /* width: 500px; */
+    transition: .3s ease-in;
+}
+#z2{
+    width: 100%;
+    height: 500px;
+    border-radius: 500px;
+    /* border-block: 90px; */
+    
+    
+}
+#k1{
+    text-align: center;
+}
+/* .n2{
+    border: rgb(14, 13, 13);
+    margin-right: 0px; */
+    /* padding-right: 30px; */
+    /* width: 20px;
+    height: 50px;
+    margin-left: 0px; */
+    /* padding: 0px; */
+    /* margin-left: 30px; */
+
+
+/* .cv{
+    display:flex;
+}
+ */
+#e4{
+    padding-left: 70px;
+    margin-right:20px;
+    /* width:100%; */
+    padding-left: 50px;
+    /* margin: 100px; */
+    /* margin-right: 320px; */
+       
+}
+/* .n2{
+    padding-left: 100px;
+} */
+.n2{
+    border: white solid;
+}
+.n2:hover{
+    box-shadow: rgb(141, 133, 133) 0px 0px 10px 10px;
+    
+}
+.zx{
+    width: 500px;
+    height: 400px;
+}
+#xc{
+    height: 200px;
+    width: 200px;
+    
+}
+/* .as{
+    background-color: gray;
+} */
+.qw{
+    margin-top: 50px;
+    
+}
+/* #qe{
+    width: 100px;
+} */
+/* as{.
+    width: 300px;
+    margin-right: 0px;
+    margin-left: 30px;
+} */
+/* .sd{
+    width: 200px;
+    margin-right: 0px;
+    margin-left: 30px;
+} */
+.df{
+    font-size: larger;
+    margin-top: 50px;
+    font-weight: bolder;
+    font-family: 'Lobster', cursive;
+    
+}
+#qe{
+    font-weight: bold;
+    /* animation: anim 3s ease-in-out 1s infinite;
+    transition: 1s ease-in-out;
+    border-radius: 50px; */
+   
+}
+.e3{
+    width: 300px;
+    margin-left: 0px;
+}
+.e1{
+    margin-right: 30px;
+    margin-left: 0px;
+    text-align: center;
+    /* padding-left: 80px; */
+    background-color: rgb(247, 243, 243);
+    color: rgb(12, 12, 12);
+}
+a{
+    color: rgb(10, 10, 10);
+}
+.r4{
+    background-color: rgb(253, 249, 249);
+}
+#x1{
+    height: 5px;
+    width: 400px;
+    background-color: aqua;
+    animation: anim 3s ease-in-out 1s infinite;
+    transition: 1s ease-in-out;
+    border-radius: 50px;
+}
+@keyframes anim{
+    0%{
+
+    }
+    25%{
+       background-color: blue;
+       font-size: smaller;
+    }
+    50%{
+        color: rgb(43, 226, 58);
+        font-size: small;
+    }
+    75%{
+        background-color: orange;
+        font-size: medium;
+    }
+    /* 85%{
+        font-size:1px;
+    } */
+    100%{
+        background-color: red;
+        font-size: large;
+        
+    }
+}
