@@ -57,8 +57,11 @@ nav{
      /* width: 500px; */
 }
 #w1{
-    margin-left: 90px;
-    margin-right: 20px;
+    /* margin-left: 90px; */
+    /* margin-right: 20px; */
+    padding: 40px;
+    width: 100%;
+
     
 }
 #b1{
@@ -100,10 +103,13 @@ nav{
 }
  */
 #e4{
-    padding-left: 70px;
-    margin-right:20px;
+    /* margin-left: 70px; */
+    /* margin-right: 20px; */
+    width: 100%;
+    padding: 40px;
+    
     /* width:100%; */
-    padding-left: 50px;
+
     /* margin: 100px; */
     /* margin-right: 320px; */
        
