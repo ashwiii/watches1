@@ -56,13 +56,32 @@ nav{
      border-radius: 50px;
      /* width: 500px; */
 }
-#w1{
+/* #w1{
     /* margin-left: 90px; */
     /* margin-right: 20px; */
-    padding: 40px;
-    width: 100%;
+    /* padding: 40px;
+    width: 100%; */ 
 
     
+/* } */
+.m8{
+    margin-left: 123px;
+
+}
+.n8{
+    margin-left: 123px;
+}
+.n9{
+    margin-left: 123px;
+}
+.n7{
+    margin-left: 123px;
+}
+.n6{
+    margin-left: 123px;
+}
+.m9{
+    margin-left: 123px;
 }
 #b1{
     background-color: rgb(241, 115, 65);
@@ -106,7 +125,7 @@ nav{
     margin-left: 50px;
     /* margin-right: 20px; */
     width: 100%;
-    padding: 40px;
+    padding: -11px;
     
     /* width:100%; */
 
